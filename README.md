@@ -27,9 +27,9 @@ Admin can track to quick closure & provide feedback on raised tickets by society
 Admin can configure the emergency number list with numbers of local police station, ambulance or pharmacy; accessible to every member.
 - Profile Management  
 Provide flexibility to admin for managing and updating registered society details.
-- Hall Booking
+- Hall Booking  
 Admin can manage the booking of society halls for events and gatherings. This feature allows residents to check availability, book, and make payments online. The admin can approve or decline booking requests and manage the calendar to avoid conflicts.
-- Car Parking
+- Car Parking  
 Admin can allocate and manage car parking spaces within the society. This includes assigning parking spots to residents, managing visitor parking, and ensuring efficient use of available spaces. The admin can also track and resolve parking-related issues reported by members.
 
 ## Member Features:
