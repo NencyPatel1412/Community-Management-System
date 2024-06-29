@@ -1,0 +1,36 @@
+<!-- New carpark allocation -->
+<%- include('partials/header') %>
+
+<div class="container" style="min-width:80%; margin:auto;">
+  <div class="row col-md-6 col-md-offset-3">
+    <div class="panel panel-primary">
+      <div class="panel-heading text-center">
+        <h4>New Carpark Allocation</h4>
+      </div>
+      <div class="panel-body">
+        <form action="/allocatecar" method="POST">
+          <div class="form-group">
+            <label for="name">firstName</label>
+            <input name="firstName" class="form-control" type="text" id="firstName"  required>
+            <br>
+            <label for="name">LastName</label>
+              <input name="lastName" class="form-control" type="text" id="lastName"  required>
+              <br>
+              <label for="name">flat-number</label>
+              <input name="flatNumber" class="form-control" type="text" id="flatNumber"  required>
+              <br>
+            <label for="car_number">Car Number</label>
+            <input name="car_number" class="form-control" type="text" id="car_number" required></input>
+            <br>
+            
+          </div>
+          <label for="parkingNumber">Parking Space Number:</label>
+		       <input type="text" id="parkingNumber" name="parkingNumber"><br><br>
+          <button type="submit" class="btn btn-primary">Allocate Carpark</button>
+          <a href="/carAdmin" class="btn btn-danger">Cancel</a>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<%- include('partials/footer') %>

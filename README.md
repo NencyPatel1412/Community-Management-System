@@ -72,7 +72,7 @@ Development contributors:
 - [Deesha Patel](https://github.com/deeshapatel02/)
 - [Meet Guna](https://github.com/MeetGuna1534) -->
 
-<img src= 'https://user-images.githubusercontent.com/65078610/112977547-d114cd00-9173-11eb-9768-8dc29a38a98d.png' width="1200">
+<!-- <img src= 'https://user-images.githubusercontent.com/65078610/112977547-d114cd00-9173-11eb-9768-8dc29a38a98d.png' width="1200">
 <img src= 'https://user-images.githubusercontent.com/65078610/112977718-00c3d500-9174-11eb-8271-193384b88b5c.png' width="1200">
 <img src= 'https://user-images.githubusercontent.com/65078610/112977767-0e795a80-9174-11eb-9f42-e8eb382e0c51.png' width="1200">
 <img src= 'https://user-images.githubusercontent.com/65078610/112977790-1933ef80-9174-11eb-8dd9-745923ab565d.png' width="1200">
@@ -81,7 +81,7 @@ Development contributors:
 <img src= 'https://user-images.githubusercontent.com/65078610/112977895-3d8fcc00-9174-11eb-87d3-732ec2ecd524.png' width="1200">
 <img src= 'https://user-images.githubusercontent.com/65078610/112977938-4da7ab80-9174-11eb-93f1-562a30f8bb01.png' width="1200">
 <img src= 'https://user-images.githubusercontent.com/65078610/112977983-59936d80-9174-11eb-9693-24ff4572ab4d.png' width="1200">
-<img src= 'https://user-images.githubusercontent.com/65078610/112978005-644e0280-9174-11eb-9ae2-35922ab08bcd.png' width="1200">
+<img src= 'https://user-images.githubusercontent.com/65078610/112978005-644e0280-9174-11eb-9ae2-35922ab08bcd.png' width="1200"> -->
 <!-- #� �E�_�S�o�c�i�e�t�y�
 �
 � -->

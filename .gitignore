@@ -1,0 +1,10 @@
+node_modules
+.env
+E-Society2022/societies.json
+E-Society2022/users.json
+views/css/formhack.ejs
+views/css/passstyle.ejs
+views/scripts/script.js
+E-Society2022/visits.json
+
+.vercel

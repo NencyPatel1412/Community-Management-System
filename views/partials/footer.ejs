@@ -1,0 +1,35 @@
+<!-- Footer content -->
+  <footer>
+    <div class="container home-container footer-head">
+      <div class="box">
+        <h2 id="text1">About Us</h2>
+        <p id="text2">
+          Community management app, capable of simplifying everyday living for your housing society. 
+          Manage accounts and payments, resolve complaints and keep the community up-to-date with all 
+          that’s going on in the society.
+        </p>
+      </div>
+      <div class="box">
+        <h2>Get In Touch</h2>
+        <div class="subcategories">
+          <p id="text2">If you have any questions, please feel free to drop us a mail.</p>
+          <a href="mailto:vishwapatel2103@gmail.com" target="_blank" style="font-size: 14px;">
+            <i class="fas fa-paper-plane"></i> Send Message
+          </a>
+        </div>
+      </div>
+    </div>
+   
+  </footer>
+  
+  <script type="text/javascript">
+    $(document).ready(function () {
+      let url = window.location;
+      $('ul.nav a').filter(function() {
+        return this.href == url;
+      }).parent().addClass('active');
+    });
+  </script> 
+</body>
+
+</html>  
