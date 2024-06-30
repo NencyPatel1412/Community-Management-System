@@ -45,6 +45,10 @@ Members can easily raise maintenance requests at personal or community level and
 Always, be prepared for emergencies. It provides the emergency number list with numbers of local police station, ambulance or pharmacy; configured by society admin.
 - Profile Management  
 Provide flexibility to members for managing and updating registered member details.
+- Hall Booking  
+Members can check the availability and book society halls for events and gatherings. This feature allows members to view the booking calendar, make reservations, and pay online. 
+- Car Parking Management  
+Members can view their assigned car parking spaces and check the availability of visitor parking.
 
 ## Specifications
 
