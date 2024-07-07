@@ -64,6 +64,10 @@ Members can view their assigned car parking spaces and check the availability of
 
 At this point, you have all the necessary files to run the projet. You will still need to configure your MongoDB database in .env file.
 
+## Deployed Link:
+
+- Live_Project_Link - https://community-management-system-ugfl.onrender.com/
+
 
 <!-- ## Configuration of .env file
 .env file constists of two variables
